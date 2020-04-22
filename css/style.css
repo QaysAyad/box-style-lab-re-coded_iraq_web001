@@ -69,5 +69,6 @@ img{
 }
 
 body{
-  background:url('../images/white-wood.jpg')
+  background:url('../images/white-wood.jpg');
+  background-size = cover;
 }
